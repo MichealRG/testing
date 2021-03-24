@@ -1,25 +1,25 @@
 # Specyfikacja:
 ## Dokument zawiera wstępna specyfikacje projektu: Aplikacja webowa do przeglądania informacji na temat książek.
 ### Spis treści
-[Cel](#1-Cel)
+[Cel](#Cel)
 
-[Opis](#2-Opis)
+[Opis](#Opis)
 
-[Diagram UML](#3-Diagram-UML)
+[Diagram UML](#Diagram-UML)
 
-[Szkic wstępny interfejsu](#4-Szkic-wstępny-interfejsu)
+[Szkic wstępny interfejsu](#Szkic-wstępny-interfejsu)
 
-[Referencje](#5-referencje)
+[Referencje](#Referencje)
 
-[Kryteria zmiany specyfikacji](#6-Kryteria-zmiany-specyfikacji)
+[Kryteria zmiany specyfikacji](#Kryteria-zmiany-specyfikacji)
 
-[Proces śledzenia pracy](#7-Proces-śledzenia-pracy)
+[Proces śledzenia pracy](#Proces-śledzenia-pracy)
 
-[Wymagania funkcjonalne](#8-Wymagania-funkcjonalne)
+[Wymagania funkcjonalne](#Wymagania-funkcjonalne)
 
-[Wymagania niefunkcjonalne](#9-Wymagania-niefunkcjonalne)
+[Wymagania niefunkcjonalne](#Wymagania-niefunkcjonalne)
 
-[Technologie](#10-Technologie)
+[Technologie](#Technologie)
 
 
 
