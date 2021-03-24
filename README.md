@@ -1,7 +1,7 @@
 # Specyfikacja:
 ## Dokument zawiera wstępna specyfikacje projektu: Aplikacja webowa do przeglądania informacji na temat książek.
 ### Spis treści
-1.	Cel	
+[1.	Cel	](#1-Cel)
 2.	Opis	
 3.	Diagram UML – przypadki użycia, dla projektu	
 4.	Szkic wstępny interfejsu	
