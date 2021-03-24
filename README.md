@@ -1,5 +1,5 @@
 # Specyfikacja:
-## Dokument zawiera wstępna specyfikacje projektu: Aplikacja webowa do przeglądania informacji na temat książek.
+## Dokument zawiera wstępna specyfikacje projektu: Aplikacja webowa do przeglądania informacji na temat książek. 📕
 ### Spis treści
 [Cel](#Cel)
 
