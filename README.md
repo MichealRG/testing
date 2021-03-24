@@ -16,9 +16,9 @@
 ## 1.	Cel
 Celem projektu jest napisanie witryny internetowej, której tematyka kręci się wokół książek. Witryna ma umożliwiać użytkownikowi wiele funkcji, które w jakiś sposób związane są z tematyką literatury, dzięki tym funkcjonalnością użytkownik będzie mógł sprawdzić wiele interesujących go rzeczy w sposób szybki i prosty.
 ## 2.	Opis
-#### a.	Opis ogólny
+#### 	a.	Opis ogólny
 System będzie zawierał witrynę internetową w której będzie mógł funkcjonować użytkownik i wykonywać polecenia dla systemu. System będzie natomiast operował na bazie danych oraz informacjach pobranych z Internetu. Do pobierania informacji zamierzamy wykorzystać internetowe API.  Natomiast sam użytkownik będzie musiał się zarejestrować w naszym systemie aby móc z niego korzystać.
-#### b.	Środowisko
+#### 	b.	Środowisko
 Aplikacja będzie działać w oparciu o MVC, gdzie umieścimy w samej aplikacji wszystkie potrzebne nam funkcjonalności. Całość napiszemy w języku c# przy użyciu oprogramowania .NET Core.
 ## 3.	Diagram UML – przypadki użycia, dla projektu
 [Diagram UML Use Case](/img/UseCaseDiagram.png)
@@ -65,20 +65,20 @@ e.	System wyświetlania informacji o obiektach związanych z książkami
 	-[ ]	Jeżeli możliwe będą do pozyskania informacje odnośnie danych obiektów, także zostaną wyświetlone.
 g.	Ranking najlepiej ocenianych książek
 	-[ ]	System sprawdza, które książki zostały ocenione najwyżej przez użytkowników i wyświetla je w perspektywie top 100 książek.
-##9.	Wymagania niefunkcjonalne:
-a.	Aplikacja będzie podzielona na fronted – widok i backend - controller
-b.	Aplikacja powinna być intuicyjna i prosta w obsłudze
-c.	System logowania powinien odpowiednio walidować hasła i konta
-d.	System powinien mieć dostęp do bazy danych 
-e.	System powinien umożliwiać nawigowanie po stronie webowej przy pomocy klawiatury
-f.	Przetestowanie aplikacji testami jednostkowymi i integracyjnymi
-g.	Responsywność aplikacji
-##10.	Technologie
-a.	.NET Core
-b.	Język programowania C#
-c.	Relacyjna baza danych SQL z użyciem entity frameworka
-d.	Sellenium – testowanie
-e.	Docker – automatyzacja developmentu
+## 9.	Wymagania niefunkcjonalne:
+	a.	Aplikacja będzie podzielona na fronted – widok i backend - controller
+	b.	Aplikacja powinna być intuicyjna i prosta w obsłudze
+	c.	System logowania powinien odpowiednio walidować hasła i konta
+	d.	System powinien mieć dostęp do bazy danych 
+	e.	System powinien umożliwiać nawigowanie po stronie webowej przy pomocy klawiatury
+	f.	Przetestowanie aplikacji testami jednostkowymi i integracyjnymi
+	g.	Responsywność aplikacji
+## 10.	Technologie
+	a.	.NET Core
+	b.	Język programowania C#
+	c.	Relacyjna baza danych SQL z użyciem entity frameworka
+	d.	Sellenium – testowanie
+	e.	Docker – automatyzacja developmentu
 
 
 
