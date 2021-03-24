@@ -21,9 +21,9 @@ System będzie zawierał witrynę internetową w której będzie mógł funkcjon
 #### 	b.	Środowisko
 Aplikacja będzie działać w oparciu o MVC, gdzie umieścimy w samej aplikacji wszystkie potrzebne nam funkcjonalności. Całość napiszemy w języku c# przy użyciu oprogramowania .NET Core.
 ## 3.	Diagram UML – przypadki użycia, dla projektu
-[Diagram UML Use Case](/img/UseCaseDiagram.png)
+![Diagram UML Use Case](/img/UseCaseDiagram.png)
 ## 4.	Szkic wstępny interfejsu
-[Szkic interfejsu](/img/Szkic.png)
+![Szkic interfejsu](/img/Szkic.png)
 ## 5.	Referencje
 Repozytorium na githubie: [GitHub](https://github.com/MichealRG/WebApp-CheckInfoAboutBooks)
 System zarządzania projetkem: [DevOps Azure](https://dev.azure.com/mk054433/Aplikacja%20webowa%20zbieraj%C4%85ca%20informacje%20o%20ksi%C4%85%C5%BCkach)
@@ -39,32 +39,32 @@ Specyfikacja z czasem może ewoluować. Zmiany w specyfikacji mogą pojawić si�
 *	Nowe funkcje będą wykonywane w branachach, które po wykonaniu będą łączone w odpowiedni branch.
 *	Gdy funkcja zostaje ukończona zostanie scalona z główną gałezią
 ## 8.	Wymagania funkcjonalne:
-a.	System logowania i rejestracji 
-	-[ ]	Utworzenie własnego konta
-	-[ ]	Możliwość zalogowania się na nasze konto z naszymi informacjami
-b.	Ustawienia użytkownika
-	-[ ]	Użytkownik poprzez wejście w odpowiednią zakładkę jest w stanie zmienić informacje dotyczące jego konta. Informacje takie jak np. e-mail, nazwa użytkownika czy hasło.
-c.	Zakładka z własną biblioteczka
-	-[ ]	Dodanie do biblioteczki książki którą właśnie czytam/ przeczytałem
-	-[ ]	Zapisywać swoje własne uwag odnośnie książki,
-	-[ ]	Zapisanie liczba stron którą przeczytałem,
-	-[ ]	Możliwość określenia planu czytelniczego,
-	-[ ]	Możliwość grupowania książek w nasze własne grupy
-	-[ ]	Wystawienie oceny danej pozycji,
-	-[ ]	Możliwość oznaczeni książki jako wartej przeczytania.
-d.	System umożliwiający przegląd informacji na temat książek
-	-[ ]	Informacje będą pobierane z Internetu
-	-[ ]	Informacje które zostaną pobrane to np. autor, wydawca, tytuł, język, rok wydania.
-	-[ ]	Użytkownik otrzyma informacje dotyczące danej frazy wyszukiwania.
-	-[ ]	Umieszczanie innych mechanizmów
-	-[ ]	Historia wyszukiwania użytkownika
-	-[ ]	Możliwość przeglądu ostatnio wyszukanych pozycji.
-e.	System wyświetlania informacji o obiektach związanych z książkami 
-	-[ ]	Pobranie informacji o obiektach w pobliżu naszej lokalizacji
-	-[ ]	Wyświetlenie obiektów związanych w jakiś sposób z książkami z naszej okolicy
-	-[ ]	Jeżeli możliwe będą do pozyskania informacje odnośnie danych obiektów, także zostaną wyświetlone.
-g.	Ranking najlepiej ocenianych książek
-	-[ ]	System sprawdza, które książki zostały ocenione najwyżej przez użytkowników i wyświetla je w perspektywie top 100 książek.
+	a.	System logowania i rejestracji 
+		- [ ]	Utworzenie własnego konta
+		- [ ]	Możliwość zalogowania się na nasze konto z naszymi informacjami
+	b.	Ustawienia użytkownika
+		- [ ]	Użytkownik poprzez wejście w odpowiednią zakładkę jest w stanie zmienić informacje dotyczące jego konta. Informacje takie jak np. e-mail, nazwa użytkownika czy hasło.
+	c.	Zakładka z własną biblioteczka
+		- [ ]	Dodanie do biblioteczki książki którą właśnie czytam/ przeczytałem
+		- [ ]	Zapisywać swoje własne uwag odnośnie książki,
+		- [ ]	Zapisanie liczba stron którą przeczytałem,
+		- [ ]	Możliwość określenia planu czytelniczego,
+		- [ ]	Możliwość grupowania książek w nasze własne grupy
+		- [ ]	Wystawienie oceny danej pozycji,
+		- [ ]	Możliwość oznaczeni książki jako wartej przeczytania.
+	d.	System umożliwiający przegląd informacji na temat książek
+		- [ ]	Informacje będą pobierane z Internetu
+		- [ ]	Informacje które zostaną pobrane to np. autor, wydawca, tytuł, język, rok wydania.
+		- [ ]	Użytkownik otrzyma informacje dotyczące danej frazy wyszukiwania.
+		- [ ]	Umieszczanie innych mechanizmów
+	e.	Historia wyszukiwania użytkownika
+		- [ ]	Możliwość przeglądu ostatnio wyszukanych pozycji.
+	f.	System wyświetlania informacji o obiektach związanych z książkami 
+		- [ ]	Pobranie informacji o obiektach w pobliżu naszej lokalizacji
+		- [ ]	Wyświetlenie obiektów związanych w jakiś sposób z książkami z naszej okolicy
+		- [ ]	Jeżeli możliwe będą do pozyskania informacje odnośnie danych obiektów, także zostaną wyświetlone.
+	g.	Ranking najlepiej ocenianych książek
+		- [ ]	System sprawdza, które książki zostały ocenione najwyżej przez użytkowników i wyświetla je w perspektywie top 100 książek.
 ## 9.	Wymagania niefunkcjonalne:
 	a.	Aplikacja będzie podzielona na fronted – widok i backend - controller
 	b.	Aplikacja powinna być intuicyjna i prosta w obsłudze
