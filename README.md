@@ -2,15 +2,15 @@
 ## Dokument zawiera wstępna specyfikacje projektu: Aplikacja webowa do przeglądania informacji na temat książek.
 ### Spis treści
 [1. Cel](#1-Cel)
-2.	Opis	
-3.	Diagram UML – przypadki użycia, dla projektu	
-4.	Szkic wstępny interfejsu	
-5.	Referencje	
-6.	Kryteria zmiany specyfikacji	
-7.	Proces śledzenia pracy	
-8.	Wymagania funkcjonalne	
-9.	Wymagania niefunkcjonalne	
-10.	Technologie	
+[2. Opis](#2-Opis)
+[3. Diagram UML – przypadki użycia, dla projektu](#3-Diagram-UML-–-przypadki-użycia,-dla-projektu)
+[4. Szkic wstępny interfejsu](#4-Szkic-wstępny-interfejsu)
+[5. Referencje](#5-referencje)
+[6. Kryteria zmiany specyfikacji](#6-Kryteria-zmiany-specyfikacji)
+[7. Proces śledzenia pracy](#7-Proces-śledzenia-pracy)
+[8. Wymagania funkcjonalne](#8-Wymagania-funkcjonalne)
+[9. Wymagania niefunkcjonalne](#9-Wymagania-niefunkcjonalne)
+[10. Technologie](#10-Technologie)
 
 
 ## 1. Cel
