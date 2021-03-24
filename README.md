@@ -1,7 +1,7 @@
 # Specyfikacja:
 ## Dokument zawiera wstępna specyfikacje projektu: Aplikacja webowa do przeglądania informacji na temat książek.
 ### Spis treści
-[1.	Cel](#1-Cel)
+[1. Cel](#1-Cel)
 2.	Opis	
 3.	Diagram UML – przypadki użycia, dla projektu	
 4.	Szkic wstępny interfejsu	
@@ -13,32 +13,32 @@
 10.	Technologie	
 
 
-## 1.	Cel
+## 1. Cel
 Celem projektu jest napisanie witryny internetowej, której tematyka kręci się wokół książek. Witryna ma umożliwiać użytkownikowi wiele funkcji, które w jakiś sposób związane są z tematyką literatury, dzięki tym funkcjonalnością użytkownik będzie mógł sprawdzić wiele interesujących go rzeczy w sposób szybki i prosty.
-## 2.	Opis
+## 2. Opis
 #### 	a.	Opis ogólny
 System będzie zawierał witrynę internetową w której będzie mógł funkcjonować użytkownik i wykonywać polecenia dla systemu. System będzie natomiast operował na bazie danych oraz informacjach pobranych z Internetu. Do pobierania informacji zamierzamy wykorzystać internetowe API.  Natomiast sam użytkownik będzie musiał się zarejestrować w naszym systemie aby móc z niego korzystać.
 #### 	b.	Środowisko
 Aplikacja będzie działać w oparciu o MVC, gdzie umieścimy w samej aplikacji wszystkie potrzebne nam funkcjonalności. Całość napiszemy w języku c# przy użyciu oprogramowania .NET Core.
-## 3.	Diagram UML – przypadki użycia, dla projektu
+## 3. Diagram UML – przypadki użycia, dla projektu
 ![Diagram UML Use Case](/img/UseCaseDiagram.png)
-## 4.	Szkic wstępny interfejsu
+## 4. Szkic wstępny interfejsu
 ![Szkic interfejsu](/img/Szkic.png)
-## 5.	Referencje
+## 5. Referencje
 Repozytorium na githubie: [GitHub](https://github.com/MichealRG/WebApp-CheckInfoAboutBooks)
 System zarządzania projetkem: [DevOps Azure](https://dev.azure.com/mk054433/Aplikacja%20webowa%20zbieraj%C4%85ca%20informacje%20o%20ksi%C4%85%C5%BCkach)
-## 6.	Kryteria zmiany specyfikacji
+## 6. Kryteria zmiany specyfikacji
 Specyfikacja z czasem może ewoluować. Zmiany w specyfikacji mogą pojawić się w sytuacjach takich jak:
 *	Obecny sposób działania, się nie sprawdzi – będzie skomplikowany i niejasny 
 *	Niezbędna funkcjonalność. Zabraknie nam funkcjonalności z powodu określonej już specyfikacji
 *	Ewolucja oprogramowania. Ponieważ trendy, systemy, api, formaty, wzorce potrafią się zmieniać, a my w związku z tym możemy zastanowić się, czy taka zmiana wpływa na nasz projekt.
-## 7.	Proces śledzenia pracy
+## 7. Proces śledzenia pracy
 *	GitHub jako źródło informacji o projekcie, postępach, dostępnych funkcjonalnościach.
 *	Praca będzie dzielona na branche, gdzie jeden branch będzie jedną funkcjonalnością
 *	Main – obecna stabilna wersja, gałąź główna projektu
 *	Nowe funkcje będą wykonywane w branachach, które po wykonaniu będą łączone w odpowiedni branch.
 *	Gdy funkcja zostaje ukończona zostanie scalona z główną gałezią
-## 8.	Wymagania funkcjonalne:
+## 8. Wymagania funkcjonalne:
 1.	System logowania i rejestracji 
 	- [ ]	Utworzenie własnego konta
 	- [ ]	Możliwość zalogowania się na nasze konto z naszymi informacjami
@@ -65,7 +65,7 @@ Specyfikacja z czasem może ewoluować. Zmiany w specyfikacji mogą pojawić si�
 	- [ ]	Jeżeli możliwe będą do pozyskania informacje odnośnie danych obiektów, także zostaną wyświetlone.
 7.	Ranking najlepiej ocenianych książek
 	- [ ]	System sprawdza, które książki zostały ocenione najwyżej przez użytkowników i wyświetla je w perspektywie top 100 książek.
-## 9.	Wymagania niefunkcjonalne:
+## 9. Wymagania niefunkcjonalne:
 1.	Aplikacja będzie podzielona na fronted – widok i backend - controller
 2.	Aplikacja powinna być intuicyjna i prosta w obsłudze
 3.	System logowania powinien odpowiednio walidować hasła i konta
@@ -73,7 +73,7 @@ Specyfikacja z czasem może ewoluować. Zmiany w specyfikacji mogą pojawić si�
 5.	System powinien umożliwiać nawigowanie po stronie webowej przy pomocy klawiatury
 6.	Przetestowanie aplikacji testami jednostkowymi i integracyjnymi
 7.	Responsywność aplikacji
-## 10.	Technologie
+## 10. Technologie
 1.	.NET Core
 2.	Język programowania C#
 3.	Relacyjna baza danych SQL z użyciem entity frameworka
