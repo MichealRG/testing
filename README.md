@@ -3,7 +3,7 @@
 ### Spis treści
 [1. Cel](#1-Cel)
 [2. Opis](#2-Opis)
-[3. Diagram UML – przypadki użycia, dla projektu](#3-Diagram-UML-–-przypadki-użycia,-dla-projektu)
+[3. Diagram UML, przypadki użycia](#3-Diagram-UML,-przypadki-użycia)
 [4. Szkic wstępny interfejsu](#4-Szkic-wstępny-interfejsu)
 [5. Referencje](#5-referencje)
 [6. Kryteria zmiany specyfikacji](#6-Kryteria-zmiany-specyfikacji)
@@ -20,7 +20,7 @@ Celem projektu jest napisanie witryny internetowej, której tematyka kręci się
 System będzie zawierał witrynę internetową w której będzie mógł funkcjonować użytkownik i wykonywać polecenia dla systemu. System będzie natomiast operował na bazie danych oraz informacjach pobranych z Internetu. Do pobierania informacji zamierzamy wykorzystać internetowe API.  Natomiast sam użytkownik będzie musiał się zarejestrować w naszym systemie aby móc z niego korzystać.
 #### 	b.	Środowisko
 Aplikacja będzie działać w oparciu o MVC, gdzie umieścimy w samej aplikacji wszystkie potrzebne nam funkcjonalności. Całość napiszemy w języku c# przy użyciu oprogramowania .NET Core.
-## 3. Diagram UML – przypadki użycia, dla projektu
+## 3. Diagram UML, przypadki użycia
 ![Diagram UML Use Case](/img/UseCaseDiagram.png)
 ## 4. Szkic wstępny interfejsu
 ![Szkic interfejsu](/img/Szkic.png)
