@@ -23,11 +23,10 @@ Aplikacja będzie działać w oparciu o MVC, gdzie umieścimy w samej aplikacji 
 ## 3.	Diagram UML – przypadki użycia, dla projektu
 ![Diagram UML Use Case](/img/UseCaseDiagram.png)
 ## 4.	Szkic wstępny interfejsu
-![Szkic interfejsu](/img/Szkic.png)
+<p align="center">![Szkic interfejsu](/img/Szkic.png)</p>
 ## 5.	Referencje
-Repozytorium na githubie: [GitHub](https://github.com/MichealRG/WebApp-CheckInfoAboutBooks)
-
-System zarządzania projetkem: [DevOps Azure](https://dev.azure.com/mk054433/Aplikacja%20webowa%20zbieraj%C4%85ca%20informacje%20o%20ksi%C4%85%C5%BCkach)
+<p>Repozytorium na githubie: [GitHub](https://github.com/MichealRG/WebApp-CheckInfoAboutBooks)</p>
+<p>System zarządzania projetkem: [DevOps Azure](https://dev.azure.com/mk054433/Aplikacja%20webowa%20zbieraj%C4%85ca%20informacje%20o%20ksi%C4%85%C5%BCkach)</p>
 ## 6.	Kryteria zmiany specyfikacji
 Specyfikacja z czasem może ewoluować. Zmiany w specyfikacji mogą pojawić się w sytuacjach takich jak:
 *	Obecny sposób działania, się nie sprawdzi – będzie skomplikowany i niejasny 
