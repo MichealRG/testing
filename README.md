@@ -40,46 +40,46 @@ Specyfikacja z czasem może ewoluować. Zmiany w specyfikacji mogą pojawić si�
 *	Nowe funkcje będą wykonywane w branachach, które po wykonaniu będą łączone w odpowiedni branch.
 *	Gdy funkcja zostaje ukończona zostanie scalona z główną gałezią
 ## 8.	Wymagania funkcjonalne:
-	a.	System logowania i rejestracji 
-		- [ ]	Utworzenie własnego konta
-		- [ ]	Możliwość zalogowania się na nasze konto z naszymi informacjami
-	b.	Ustawienia użytkownika
-		- [ ]	Użytkownik poprzez wejście w odpowiednią zakładkę jest w stanie zmienić informacje dotyczące jego konta. Informacje takie jak np. e-mail, nazwa użytkownika czy hasło.
-	c.	Zakładka z własną biblioteczka
-		- [ ]	Dodanie do biblioteczki książki którą właśnie czytam/ przeczytałem
-		- [ ]	Zapisywać swoje własne uwag odnośnie książki,
-		- [ ]	Zapisanie liczba stron którą przeczytałem,
-		- [ ]	Możliwość określenia planu czytelniczego,
-		- [ ]	Możliwość grupowania książek w nasze własne grupy
-		- [ ]	Wystawienie oceny danej pozycji,
-		- [ ]	Możliwość oznaczeni książki jako wartej przeczytania.
-	d.	System umożliwiający przegląd informacji na temat książek
-		- [ ]	Informacje będą pobierane z Internetu
-		- [ ]	Informacje które zostaną pobrane to np. autor, wydawca, tytuł, język, rok wydania.
-		- [ ]	Użytkownik otrzyma informacje dotyczące danej frazy wyszukiwania.
-		- [ ]	Umieszczanie innych mechanizmów
-	e.	Historia wyszukiwania użytkownika
-		- [ ]	Możliwość przeglądu ostatnio wyszukanych pozycji.
-	f.	System wyświetlania informacji o obiektach związanych z książkami 
-		- [ ]	Pobranie informacji o obiektach w pobliżu naszej lokalizacji
-		- [ ]	Wyświetlenie obiektów związanych w jakiś sposób z książkami z naszej okolicy
-		- [ ]	Jeżeli możliwe będą do pozyskania informacje odnośnie danych obiektów, także zostaną wyświetlone.
-	g.	Ranking najlepiej ocenianych książek
-		- [ ]	System sprawdza, które książki zostały ocenione najwyżej przez użytkowników i wyświetla je w perspektywie top 100 książek.
+1.	System logowania i rejestracji 
+	- [ ]	Utworzenie własnego konta
+	- [ ]	Możliwość zalogowania się na nasze konto z naszymi informacjami
+2.	Ustawienia użytkownika
+	- [ ]	Użytkownik poprzez wejście w odpowiednią zakładkę jest w stanie zmienić informacje dotyczące jego konta. Informacje takie jak np. e-mail, nazwa użytkownika czy hasło.
+3.	Zakładka z własną biblioteczka
+	- [ ]	Dodanie do biblioteczki książki którą właśnie czytam/ przeczytałem
+	- [ ]	Zapisywać swoje własne uwag odnośnie książki,
+	- [ ]	Zapisanie liczba stron którą przeczytałem,
+	- [ ]	Możliwość określenia planu czytelniczego,
+	- [ ]	Możliwość grupowania książek w nasze własne grupy
+	- [ ]	Wystawienie oceny danej pozycji,
+	- [ ]	Możliwość oznaczeni książki jako wartej przeczytania.
+4.	System umożliwiający przegląd informacji na temat książek
+	- [ ]	Informacje będą pobierane z Internetu
+	- [ ]	Informacje które zostaną pobrane to np. autor, wydawca, tytuł, język, rok wydania.
+	- [ ]	Użytkownik otrzyma informacje dotyczące danej frazy wyszukiwania.
+	- [ ]	Umieszczanie innych mechanizmów
+5.	Historia wyszukiwania użytkownika
+	- [ ]	Możliwość przeglądu ostatnio wyszukanych pozycji.
+6.	System wyświetlania informacji o obiektach związanych z książkami 
+	- [ ]	Pobranie informacji o obiektach w pobliżu naszej lokalizacji
+	- [ ]	Wyświetlenie obiektów związanych w jakiś sposób z książkami z naszej okolicy
+	- [ ]	Jeżeli możliwe będą do pozyskania informacje odnośnie danych obiektów, także zostaną wyświetlone.
+7.	Ranking najlepiej ocenianych książek
+	- [ ]	System sprawdza, które książki zostały ocenione najwyżej przez użytkowników i wyświetla je w perspektywie top 100 książek.
 ## 9.	Wymagania niefunkcjonalne:
-	a.	Aplikacja będzie podzielona na fronted – widok i backend - controller
-	b.	Aplikacja powinna być intuicyjna i prosta w obsłudze
-	c.	System logowania powinien odpowiednio walidować hasła i konta
-	d.	System powinien mieć dostęp do bazy danych 
-	e.	System powinien umożliwiać nawigowanie po stronie webowej przy pomocy klawiatury
-	f.	Przetestowanie aplikacji testami jednostkowymi i integracyjnymi
-	g.	Responsywność aplikacji
+1.	Aplikacja będzie podzielona na fronted – widok i backend - controller
+2.	Aplikacja powinna być intuicyjna i prosta w obsłudze
+3.	System logowania powinien odpowiednio walidować hasła i konta
+4.	System powinien mieć dostęp do bazy danych 
+5.	System powinien umożliwiać nawigowanie po stronie webowej przy pomocy klawiatury
+6.	Przetestowanie aplikacji testami jednostkowymi i integracyjnymi
+7.	Responsywność aplikacji
 ## 10.	Technologie
-	a.	.NET Core
-	b.	Język programowania C#
-	c.	Relacyjna baza danych SQL z użyciem entity frameworka
-	d.	Sellenium – testowanie
-	e.	Docker – automatyzacja developmentu
+1.	.NET Core
+2.	Język programowania C#
+3.	Relacyjna baza danych SQL z użyciem entity frameworka
+4.	Sellenium – testowanie
+5.	Docker – automatyzacja developmentu
 
 
 
