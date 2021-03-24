@@ -5,7 +5,7 @@
 
 [2. Opis](#2-Opis)
 
-[3. Diagram UML, przypadki użycia](#3-Diagram-UML,-przypadki-użycia)
+[3. Diagram UML](#3-Diagram-UML)
 
 [4. Szkic wstępny interfejsu](#4-Szkic-wstępny-interfejsu)
 
@@ -30,7 +30,7 @@ Celem projektu jest napisanie witryny internetowej, której tematyka kręci się
 System będzie zawierał witrynę internetową w której będzie mógł funkcjonować użytkownik i wykonywać polecenia dla systemu. System będzie natomiast operował na bazie danych oraz informacjach pobranych z Internetu. Do pobierania informacji zamierzamy wykorzystać internetowe API.  Natomiast sam użytkownik będzie musiał się zarejestrować w naszym systemie aby móc z niego korzystać.
 #### 	b.	Środowisko
 Aplikacja będzie działać w oparciu o MVC, gdzie umieścimy w samej aplikacji wszystkie potrzebne nam funkcjonalności. Całość napiszemy w języku c# przy użyciu oprogramowania .NET Core.
-## 3. Diagram UML, przypadki użycia
+## 3. Diagram UML
 ![Diagram UML Use Case](/img/UseCaseDiagram.png)
 ## 4. Szkic wstępny interfejsu
 ![Szkic interfejsu](/img/Szkic.png)
